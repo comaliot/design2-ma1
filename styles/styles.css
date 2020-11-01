@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 * {
   margin: 0;
@@ -10,6 +11,10 @@ body {
   font-family: 'Syne', sans-serif;
   background-image: url('https://comaliot.github.io/Design2-ma2/images/seamless_paper_texture.png');
   background-color: #fefae0;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
 }
 
 .wrapper {
